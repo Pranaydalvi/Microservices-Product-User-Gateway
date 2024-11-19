@@ -70,15 +70,6 @@ This repository demonstrates a microservices-based architecture built with Sprin
 
 ---
 
-## 📊 Architecture Diagram
-
-![Microservices Architecture](https://via.placeholder.com/800x400?text=Architecture+Diagram)
-
-Include a diagram illustrating the architecture:
-- **User** → **Zuul Gateway** → **Eureka Service** → **ProductService** / **UserService**.
-
----
-
 ## 🛠️ Future Enhancements
 
 - Add authentication and authorization with Spring Security and JWT.
