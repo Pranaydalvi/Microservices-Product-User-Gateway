@@ -32,7 +32,7 @@ This repository demonstrates a microservices-based architecture built with Sprin
 - **API Gateway**: Zuul
 - **Inter-Service Communication**: Feign Client
 - **Build Tool**: Maven
-- **Database**: MySQL (or H2 for testing)
+- **Database**: MySQL
 
 ---
 
